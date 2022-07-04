@@ -1,2 +1,5 @@
-# Global
-a repository of Basic details
+- Hi, I’m @wndevmsa
+- I’m interested in Java, CSS, HTML, PHP that I already studied but need some practice.
+- I’m currently learning Java, CSS, HTML, PHP.
+- I’m looking to collaborate on these mentioned languages and willing to get higher level.
+- Don't hesitate to contacting me on my e-mail address: wndev@outlook.com.
